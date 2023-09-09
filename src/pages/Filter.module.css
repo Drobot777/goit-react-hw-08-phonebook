@@ -1,0 +1,16 @@
+.input {
+  padding: 10px;
+}
+.label {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: larger;
+  margin-bottom: 40px;
+  color: gold;
+  font-weight: 700;
+  font-size: 20px;
+}

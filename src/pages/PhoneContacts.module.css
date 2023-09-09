@@ -1,0 +1,23 @@
+.list {
+  max-width: 250px;
+  display: flex;
+  margin-bottom: 10px;
+  justify-content: space-between;
+  margin-left: auto;
+  margin-right: auto;
+  border: 2px solid gold;
+  padding: 5px 10px;
+  color: gold;
+  font-weight: 700;
+}
+.item {
+  text-decoration: none;
+}
+.button {
+  display: block;
+  background-color: gold;
+  color: blue;
+}
+.number {
+  color: gold;
+}
